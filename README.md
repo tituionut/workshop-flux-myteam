@@ -1,1 +1,1 @@
-# Workshop Flux MyTeam
+# workshop-flux-myteam
